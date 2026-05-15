@@ -1,4 +1,4 @@
-This repository contains the source code and experimental scripts for our TKDE journal paper.
+This repository contains the source code and experimental scripts for our NeOPFA method.
 
 ### 1. Data Preparation
 
